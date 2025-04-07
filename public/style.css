@@ -1,0 +1,7 @@
+.watermark {
+  visibility: hidden !important;
+}
+
+#header {
+  display: none;
+}
